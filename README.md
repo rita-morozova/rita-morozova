@@ -2,7 +2,7 @@
 
 ![banner](https://res.cloudinary.com/diexi8g0j/image/upload/v1609988893/logo_sssksz.jpg)
 
-### Hi there, I am Margarita 👋
+### Hi there, I am Rita (Margarita) 👋
 
 I am a full-stack developer with a passion for creating innovative, efficient and aesthetically pleasing software. Experienced in Ruby on Rails, React and JavaScript frameworks. I transitioned to coding to express my creative side and help companies to build intuitive, user-friendly software.
 
