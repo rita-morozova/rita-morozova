@@ -10,7 +10,7 @@ I am a full-stack developer with a passion for creating innovative, efficient an
 - 🔭 I’m currently working on an Audible app with a Tinder style interface 
 - 🌱 I’m currently learning Redux, React Native and Node
 - 👯 I used to teach Russian, was a personal trainer and now I code
-- ⚡ Fun fact: I collect plants
+- ⚡ Fun fact: I collect plants and vintage clothing
 - 📫 Email me at ritamorozova@yahoo.com
 
 TECHNICAL SKILLS: JavaScript | React | HTML/CSS | Ruby | Ruby on Rails | SQL | PostgreSQL | Git | REST API | OOP | Test-Driven Development
