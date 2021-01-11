@@ -13,7 +13,7 @@ I am a full-stack developer with a passion for creating innovative, efficient an
 - ⚡ Fun fact: I collect plants and vintage clothing
 - 📫 Email me at ritamorozova@yahoo.com
 
-TECHNICAL SKILLS: JavaScript | React | HTML/CSS | Ruby | Ruby on Rails | SQL | PostgreSQL | Git | REST API | OOP | Test-Driven Development
+TECHNICAL SKILLS: JavaScript | React | HTML/CSS | Ruby | Ruby on Rails | SQL | PostgreSQL | Git | REST API | OOP 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rita-morozova&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
