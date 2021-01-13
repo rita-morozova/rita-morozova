@@ -15,7 +15,7 @@ I am a full-stack developer with a passion for creating innovative, efficient an
 
 TECHNICAL SKILLS: JavaScript | React | HTML/CSS | Ruby | Ruby on Rails | SQL | PostgreSQL | Git | REST API | OOP 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rita-morozova&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rita-morozova&show_icons=true&hide=stars&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rita-morozova&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
