@@ -1,14 +1,10 @@
 
-
-![banner](https://res.cloudinary.com/diexi8g0j/image/upload/v1609988893/logo_sssksz.jpg)
-
 ### Hi there, I am Rita (Margarita) 👋
 
 I am a full-stack developer focused on creating innovative, efficient and aesthetically pleasing software. Experienced in Ruby on Rails, React and JavaScript frameworks. I transitioned to coding to express my creative side and help companies to build intuitive, user-friendly software.
 
 
-- 🔭 I’m currently working on an Audible app with a Tinder style interface 
-- 🌱 I’m currently learning React Native and Node
+- 🌱 I’m currently learning React Native
 - 👯 I used to teach Russian, was a personal trainer and now I code
 - ⚡ Fun fact: I collect plants and vintage clothing
 - 📫 Email me at ritamorozova@yahoo.com
