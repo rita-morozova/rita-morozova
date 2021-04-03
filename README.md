@@ -17,4 +17,4 @@ TECHNICAL SKILLS: JavaScript | React / Redux | HTML/CSS | Ruby | Ruby on Rails |
 
 ❤️  Template by [elangosundar](https://github.com/elangosundar/awesome-README-templates) 
 
-❤️  <a href='https://www.freepik.com/vectors/background'>Background vector created by starline - www.freepik.com</a>
+
